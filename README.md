@@ -16,3 +16,4 @@ Tech Stack
  - FAISS (faiss-cpu)
  - Ollama
  - Requests
+ - Docker
