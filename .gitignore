@@ -1,0 +1,12 @@
+# Ignore the generated vector database
+index
+
+# Ignore the raw dataset (it's too large for GitHub)
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
